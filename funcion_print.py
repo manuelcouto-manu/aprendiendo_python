@@ -11,7 +11,7 @@ print() #Imprime una línea en blanco
 
 print("¿Cómo estás?")
 
-print()
+print() # Genera una línea vacía
 
 print("Hoy es viernes \ny hace Sol") 
 # Carácter de escape y nueva línea:
@@ -27,3 +27,6 @@ print("Fin de semana!")
 
 # manera posicional de pasar argumentos
 # print(arg1, arg2, arg3, ...)
+
+# las instrucciones en el código se ejecutan en el mismo orden
+# en que se colocaron en el archivo fuente

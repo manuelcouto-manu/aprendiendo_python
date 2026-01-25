@@ -1,4 +1,10 @@
-# python
-## Aprendiendo Python desde 0
-  1. Python Essentials 1 :
-    1.1 Módulo 1: Introducción a Python y a la programación de computadora.
+# aprendiendo Python
+
+
+**Módulo 1**
+
+Introducción a Python y a la programación de computadora.
+
+**Módulo 2**
+
+Tipos de datos, variables, operaciones básicas de entrada y salida, y operadores básicos.
