@@ -30,3 +30,5 @@ print("Fin de semana!")
 
 # las instrucciones en el código se ejecutan en el mismo orden
 # en que se colocaron en el archivo fuente
+
+# argumentos de palabra clave (keyword arguments)
