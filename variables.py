@@ -18,10 +18,13 @@ total_venta = 150.75
 # PEP 8 -- Style Guide for Python Code recomienda la siguiente convención de nomenclatura
 #  para variables y funciones en Python:
 
-    #Los nombres de las variables deben estar en minúsculas,
+    # Los nombres de las variables deben estar en minúsculas,
     #  con palabras separadas por guiones bajos para mejorar la legibilidad (por ejemplo: var, mi_variable).
-    #Los nombres de las funciones siguen la misma convención
+    # Los nombres de las funciones siguen la misma convención
     #  que los nombres de las variables (por ejemplo: fun, mi_función).
-    #También es posible usar letras mixtas
+    # También es posible usar letras mixtas
     #  (por ejemplo: miVariable), pero solo en contextos donde ese ya es el estilo predominante,
     #  para mantener la compatibilidad retroactiva con la convención adoptada.
+
+# Una variable se crea cuando se le asigna un valor, cualquier cosa puede ir dentro de una variable.
+
