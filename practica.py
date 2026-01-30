@@ -1,9 +1,10 @@
 #practicando...py
 
-var = 1
-account_balance = 1000.0
-client_name = 'John Doe'
-print(var, account_balance, client_name)
-print(var)
+juan = 3
+maria = 5
+adan = 6
+print ("juan", "maria","adan")
+total_manzanas = 3+5+6
+print (total_manzanas)
 
 

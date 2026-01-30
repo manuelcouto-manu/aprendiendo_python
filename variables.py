@@ -28,3 +28,13 @@ total_venta = 150.75
 
 # Una variable se crea cuando se le asigna un valor, cualquier cosa puede ir dentro de una variable.
 
+# Se puede utilizar print() para combinar   texto con variables
+# utilizando el operador + para mostrar cadenas con variables, como por ejemplo:
+nombre = "Ana"
+edad = 30 # asigna 30 a edad # edad se convierte en 30.
+print("Nombre: " + nombre + ", Edad: " + str(edad))
+
+var = 1
+print(var)
+var = var + 1 # Toma el valor actual de la variable var, sumale 1 y guárdalo en la variable var.
+print(var)

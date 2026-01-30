@@ -35,4 +35,14 @@ menor_o_igual = (3 <= 4) # Menor o igual: resultado es True
 # Operadores lógicos:
 y_logico = (True and False)  # AND lógico: resultado es False
 o_logico = (True or False)    # OR lógico: resultado es True
-no_logico = not True          # NOT lógico: resultado es False    
+no_logico = not True          # NOT lógico: resultado es False 
+
+# Operadores abreviados:
+x = 10
+x += 5    # Equivalente a x = x + 5; ahora x es 15
+x -= 3    # Equivalente a x = x - 3; ahora x es 12
+x *= 2    # Equivalente a x = x * 2; ahora x es 24
+x /= 4    # Equivalente a x = x / 4; ahora x es 6.0
+x //= 2   # Equivalente a x = x // 2; ahora x es 3.0
+x %= 2    # Equivalente a x = x % 2; ahora x es 1.0
+x **= 3   # Equivalente a x = x ** 3; ahora x es 1.0           
