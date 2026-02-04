@@ -1,10 +1,5 @@
-#practicando...py
+nombre_alumno = input("Introduce tu nombre: ")
+print("Bienvenido", nombre_alumno)
 
-juan = 3
-maria = 5
-adan = 6
-print ("juan", "maria","adan")
-total_manzanas = 3+5+6
-print (total_manzanas)
-
-
+edad_alumno = int(input("Introduce tu edad: "))
+numero_mes = int(imput("Intruduce el número del mes"))
